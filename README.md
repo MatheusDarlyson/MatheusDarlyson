@@ -20,7 +20,7 @@
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusDarlyson&show_icons=true&theme=dracula)
 
 ## Contato
 
